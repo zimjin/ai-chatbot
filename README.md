@@ -68,3 +68,8 @@ $ tsx lib/db/migrate.ts
 ## versel ai-sdk
 doc: https://sdk.vercel.ai/providers/openai-compatible-providers/custom-providers
 github: https://github.com/vercel/ai?tab=readme-ov-file
+
+## 测试环境
+$ pnpm install
+$ pnpm dev
+登录账号zimjin@gmail.com 
