@@ -59,3 +59,12 @@ pnpm dev
 ```
 
 Your app template should now be running on [localhost:3000](http://localhost:3000/).
+
+## 执行 migrate.ts 初始化数据库
+直接安装 tsx 命令执行 ts 脚本，方便快捷
+$ npm install -g tsx
+$ tsx lib/db/migrate.ts
+
+## versel ai-sdk
+doc: https://sdk.vercel.ai/providers/openai-compatible-providers/custom-providers
+github: https://github.com/vercel/ai?tab=readme-ov-file
